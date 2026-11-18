@@ -1,0 +1,9 @@
+zond-mcp no está afiliado a DeepSeek ni patrocinado por DeepSeek, Inc.
+
+Los endpoints que expone —`/v1/tools/search`, `/v1/tools/fetch` y
+`/v1/tools/ocr`— son una API pública de DeepSeek. Sus términos de uso, precios,
+límites de tasa y políticas de contenido son los de DeepSeek, no los de este
+proyecto: https://api-docs.deepseek.com
+
+La documentación con la que se construyó este servidor está copiada en
+`docs/fuentes/`, con la fecha de bajada y las URLs canónicas al lado.
